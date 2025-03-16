@@ -1,0 +1,2 @@
+C:/Users/Kathlyn/AndroidStudioProjects/bautista_seatwork/android/app/.cxx/Debug/x5w53u5z/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Kathlyn/AndroidStudioProjects/bautista_seatwork/android/app/.cxx/Debug/x5w53u5z/x86_64/CMakeFiles/rebuild_cache.dir

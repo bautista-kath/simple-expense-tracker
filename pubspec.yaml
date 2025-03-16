@@ -1,0 +1,25 @@
+name: bautista_seatwork
+description: A simple expense tracking app.
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"  # Allow newer Dart versions
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.4.2  # Updated
+  path_provider: ^2.1.2  # Updated to latest
+  scoped_model: ^2.0.0  # Updated version
+  intl: ^0.20.2  # Updated version
+  path: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0  # Updated
+  lints: ^5.1.1  # Updated
+
+flutter:
+  uses-material-design: true
